@@ -56,7 +56,7 @@ node app.js
 
 ### Self-Assessment Dashboard
 
-![Assessment Dashboard](./Assessment Dashboard.png)
+![assessment_dashboard](./assessment_dashboard.png)
 
 ### Questionnaire
 

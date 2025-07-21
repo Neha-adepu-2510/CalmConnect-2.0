@@ -52,36 +52,6 @@ node app.js
 
 ---
 
-## 🖼️ Screenshots
-
-### Self-Assessment Dashboard
-
-![assessment_dashboard](./assessment_dashboard.png)
-
-### Questionnaire
-
-![Questionnaire](./questionnaire.png)
-
-### Result Page
-
-![Result  Page 01](./result_pg_01.png)
-
-![Result  Page 02](./result_pg_02.png)
-
-![Result  Page 03](./result_pg_03.png)
-
-![Result  Page 04](./result_pg_04.png)
-
-![Result  Page 05](./result_pg_05.png)
-
-![Result  Page 06](./result_pg_06.png)
-
-![Result  Page 07](./result_pg_07.png)
-
-![Result  Page 08](./result_pg_08.png)
-
----
-
 ## 👩‍💻 Made With 💙 By
 
 * **B. Jyothika**

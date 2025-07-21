@@ -1,9 +1,5 @@
-Sure! Here's your updated `README.md` for **CalmConnect 2.0**, with **all references to Lovable removed**, and everything focused solely on your local setup and project features.
-
----
-
-````markdown
 # 🩷 CalmConnect 2.0 – Your Mental Wellness Companion 🌿
+
 
 **CalmConnect 2.0** is an AI-powered web application focused on mental wellness. It offers intelligent self-assessments, empathetic chatbot conversations, and personalized self-care guidance. Built with love and care to help you understand and manage your mental health better.
 
